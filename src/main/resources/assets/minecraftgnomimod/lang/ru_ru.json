@@ -1,0 +1,15 @@
+{
+  "item.minecraftgnomimod.woodchips": "Щепки дерева",
+  "item.minecraftgnomimod.bark": "Кора дерева",
+  "itemGroup.minecraftgomimod tab": "Гномий мод",
+  "block.minecraftgnomimod.bark_block": "Блок коры",
+  "item.minecraftgnomimod.bark_axe": "Топор из коры",
+  "item.minecraftgnomimod.bark_sword": "Меч из коры",
+  "item.minecraftgnomimod.bark_shovel": "Лопата из коры",
+  "item.minecraftgnomimod.bark_pickaxe": "Кирка из коры",
+  "item.minecraftgnomimod.bark_hoe": "Тяпка из коры",
+  "item.minecraftgnomimod.bark_boots": "Ботинки из коры",
+  "item.minecraftgnomimod.bark_leggings": "Штаны из коры",
+  "item.minecraftgnomimod.bark_chestplate": "Нагрудник из коры",
+  "item.minecraftgnomimod.bark_helmet": "Шлем из коры"
+}
